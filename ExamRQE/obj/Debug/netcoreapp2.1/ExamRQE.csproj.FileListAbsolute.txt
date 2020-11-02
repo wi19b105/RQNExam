@@ -1,0 +1,12 @@
+C:\Users\kulll\source\Repos\ExamRQE\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\kulll\source\Repos\ExamRQE\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\kulll\source\Repos\ExamRQE\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\kulll\source\Repos\ExamRQE\bin\Debug\netcoreapp2.1\ExamRQE.deps.json
+C:\Users\kulll\source\Repos\ExamRQE\bin\Debug\netcoreapp2.1\ExamRQE.runtimeconfig.json
+C:\Users\kulll\source\Repos\ExamRQE\bin\Debug\netcoreapp2.1\ExamRQE.runtimeconfig.dev.json
+C:\Users\kulll\source\Repos\ExamRQE\bin\Debug\netcoreapp2.1\ExamRQE.dll
+C:\Users\kulll\source\Repos\ExamRQE\obj\Debug\netcoreapp2.1\ExamRQE.csprojAssemblyReference.cache
+C:\Users\kulll\source\Repos\ExamRQE\obj\Debug\netcoreapp2.1\ExamRQE.csproj.CoreCompileInputs.cache
+C:\Users\kulll\source\Repos\ExamRQE\obj\Debug\netcoreapp2.1\ExamRQE.AssemblyInfoInputs.cache
+C:\Users\kulll\source\Repos\ExamRQE\obj\Debug\netcoreapp2.1\ExamRQE.AssemblyInfo.cs
+C:\Users\kulll\source\Repos\ExamRQE\bin\Debug\netcoreapp2.1\TechTalk.SpecFlow.xUnit.SpecFlowPlugin.dll
